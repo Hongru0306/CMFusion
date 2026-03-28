@@ -1,2 +1,2 @@
 # LCFusion
-LCFusion codes.
+Code and weights will be released after acceptance.
